@@ -40,7 +40,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Pulitzer Prize for Fiction Winners</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:abstract>A man sees his life differently through the eyes of his daughters in turn-of-the-century New York City.</dc:abstract>
+		<meta property="schema:abstract">A man sees his life differently through the eyes of his daughters in turn-of-the-century New York City.</meta>
 		<dc:description>
 			&lt;p&gt;Roger Gale, a media-monitoring business owner nearing retirement, observes life in early 20th century New York City through the eyes of his three daughters. The youngest, Laura, is a social butterfly always going to the latest excitements the city can offer. The middle, Edith, is a mother to four children, on whom she dotes. The oldest, Deborah, cares for her own “family,” tenement children and the poor trying to make it the new country they have made their home. Through each daughter, he sees the changing social order of New York in a new way.&lt;/p&gt;
 		</dc:description>
